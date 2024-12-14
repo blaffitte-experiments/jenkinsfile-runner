@@ -62,7 +62,7 @@ plugins:
   - groupId: "org.jenkins-ci.plugins"
     artifactId: "ssh-credentials"
     source:
-      version: "1.12"
+      version: "687.v619cb_15e923f"
   - groupId: "org.jenkins-ci.plugins"
     artifactId: "credentials-binding"
     source:
